@@ -31,4 +31,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=marcellemarichal&theme=radical&show_icons=true)](https://github.com/marcellemarichal/) 
 <br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellemarichal&hide=html&layout=compact&theme=radical)](https://github.com/marcellemarichal/)
+
