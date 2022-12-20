@@ -2,7 +2,7 @@
 <h1 align="left"> Hello! I'm glad you're here </h1>
 <br>
 <p align="left"> 
-  I'm Marcelle Marichal and I'm 24 years old. I'm currently learning <strong> HTML, CSS, Java Script, NODE</strong> and <strong> ReactJS</strong> to become a professional developer. I describe myself as a curious and practical person. 
+  I'm Marcelle Marichal and I'm 25 years old. I'm currently learning <strong> HTML, CSS, Java Script, Docker, NODE</strong> and <strong> ReactJS</strong> to increase my developing skills. I describe myself as a curious and practical person. 
 </p>
 
 <br>
